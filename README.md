@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm LIKITH KS</h1>
 <h3 align="center">A passionate software developer from India</h3>
-<img src="C:\Users\Pratheek C N\Downloads\a13e700eb28ecec1c2ad4e41081e1743.gif"    align="right" alt="codeing" width="400">
+<img src="https://i.pinimg.com/originals/a1/3e/70/a13e700eb28ecec1c2ad4e41081e1743.gif"    align="right" alt="codeing" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kslikithshetty&label=Profile%20views&color=0e75b6&style=flat" alt="kslikithshetty" /> </p>
 
